@@ -1,0 +1,13 @@
+table {
+    margin-top: 50px;
+    box-shadow: 0 0 30px #48a5a5ed;
+}
+
+tbody {
+    text-align: center;
+}
+
+tbody tr {
+    margin-bottom: 5px;
+    padding: 10px;
+  }
